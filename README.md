@@ -39,6 +39,20 @@ Background in trading systems, data pipelines, and secure backend architecture.
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
 </p>
 
+🔧 Technical Skills
+🛡️ Security
+SIEM (Splunk, ELK) EDR (CrowdStrike) Wireshark Threat Detection NIST Log Analysis MITRE ATT&CK Vulnerability Assessment Secure System Design Network Security
+🐍 Python
+Security automation Anomaly detection Log parsing Alert enrichment Backtesting Performance analytics REST API integration
+⚙️ Engineering
+C# / .NET REST APIs Microservices CQRS TDD Docker Kubernetes AWS CI/CD Git Grafana Bash PowerShell
+🗄️ Data
+PostgreSQL MSSQL NoSQL SSRS SSIS Financial Data Pipelines Pipeline Integrity Compliance Reporting
+💹 Domain
+Financial market infrastructure Orderflow & price action Risk management
+🌍 Languages
+English Italian Ukrainian Polish Russian
+
 ---
 
 ### 🚀 Projects
