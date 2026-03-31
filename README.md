@@ -54,17 +54,6 @@ Background in trading systems, data pipelines, and secure backend architecture.
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oxbias&theme=dark&hide_border=true" alt="oxbias" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oxbias&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="oxbias" />
-</p>
-
----
-
 ### 🏆 Certifications & Training
 
 - 🔐 TryHackMe — Security Engineer Path *(In Progress)*
