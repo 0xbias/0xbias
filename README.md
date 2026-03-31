@@ -5,7 +5,6 @@
   <a href="https://linkedin.com/in/alessandrobranchetti" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=oxbias&label=Profile%20views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
@@ -17,7 +16,7 @@ Background in trading systems, data pipelines, and secure backend architecture.
 
 - 🔐 **Focus:** Security Engineering for fintech and trading infrastructure
 - 🐍 **Currently building:** Python tooling for anomaly detection, log parsing, and financial threat detection
-- 📚 **Learning:** TryHackMe Security Engineer path · CTF competitions · Home lab
+- 📚 **Learning:** TryHackMe Security Engineer path · CTF competitions
 - 💹 **Domain:** 6+ years in financial data systems · Proprietary trader (FTMO, $250K capital)
 - 🌍 **Based in:** Dublin, Ireland · Open to remote roles across Europe & Southeast Asia
 - 📬 **Reach me:** brk.alessandro@gmail.com
@@ -69,7 +68,6 @@ Background in trading systems, data pipelines, and secure backend architecture.
 ### 🏆 Certifications & Training
 
 - 🔐 TryHackMe — Security Engineer Path *(In Progress)*
-- 🏠 Home Lab — Log ingestion, alert correlation, detection rule tuning
 - 🚩 CTF Competitions — Active participant
 - 🐳 Docker & Kubernetes: The Practical Guide — Udemy (2021)
 
