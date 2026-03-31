@@ -5,7 +5,7 @@
   <a href="https://linkedin.com/in/alessandrobranchetti" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=brnktt&label=Profile%20views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=oxbias&label=Profile%20views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
@@ -46,10 +46,10 @@ Background in trading systems, data pipelines, and secure backend architecture.
 
 | Project | Description | Stack |
 |---|---|---|
-| 🔍 **[log-alert-engine](https://github.com/brnktt/log-alert-engine)** | Log parser with configurable detection rules and alert severity output | Python, Regex, JSON |
-| 📈 **[financial-anomaly-detector](https://github.com/brnktt/financial-anomaly-detector)** | Statistical anomaly detection on financial time-series data | Python, Pandas, NumPy |
-| 📊 **[trading-journal-analytics](https://github.com/brnktt/trading-journal-analytics)** | Trade performance dashboard with risk metrics and drawdown analysis | Python, Plotly, Streamlit |
-| 🌐 **[network-traffic-analyser](https://github.com/brnktt/network-traffic-analyser)** | PCAP analysis tool with anomaly flagging and threat intel lookups | Python, Scapy, Requests |
+| 🔍 **[log-alert-engine](https://github.com/oxbias/log-alert-engine)** | Log parser with configurable detection rules and alert severity output | Python, Regex, JSON |
+| 📈 **[financial-anomaly-detector](https://github.com/oxbias/financial-anomaly-detector)** | Statistical anomaly detection on financial time-series data | Python, Pandas, NumPy |
+| 📊 **[trading-journal-analytics](https://github.com/oxbias/trading-journal-analytics)** | Trade performance dashboard with risk metrics and drawdown analysis | Python, Plotly, Streamlit |
+| 🌐 **[network-traffic-analyser](https://github.com/oxbias/network-traffic-analyser)** | PCAP analysis tool with anomaly flagging and threat intel lookups | Python, Scapy, Requests |
 
 > ⚠️ Projects currently in active development — check back soon.
 
@@ -58,10 +58,10 @@ Background in trading systems, data pipelines, and secure backend architecture.
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brnktt&theme=dark&hide_border=true" alt="brnktt" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oxbias&theme=dark&hide_border=true" alt="oxbias" />
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brnktt&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="brnktt" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oxbias&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="oxbias" />
 </p>
 
 ---
