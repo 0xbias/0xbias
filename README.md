@@ -18,7 +18,7 @@ Background in trading systems, data pipelines, and secure backend architecture.
 - 🔐 **Focus:** Security Engineering for fintech and trading infrastructure
 - 🐍 **Currently building:** Python tooling for anomaly detection, log parsing, and financial threat detection
 - 📚 **Learning:** TryHackMe Security Engineer path · CTF competitions · Home lab
-- 💹 **Domain:** 6+ years in financial data systems · Proprietary trader (FTMO, $150K capital)
+- 💹 **Domain:** 6+ years in financial data systems · Proprietary trader (FTMO, $250K capital)
 - 🌍 **Based in:** Dublin, Ireland · Open to remote roles across Europe & Southeast Asia
 - 📬 **Reach me:** brk.alessandro@gmail.com
 
