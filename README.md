@@ -56,10 +56,9 @@ Background in trading systems, data pipelines, and secure backend architecture.
 
 ### 🏆 Certifications & Training
 
-- 🔐 TryHackMe — Security Engineer Path *(In Progress)*
-- 🚩 CTF Competitions — Active participant
+- 🔐 TryHackMe — Security Engineer Path (2026)
 - 🐳 Docker & Kubernetes: The Practical Guide — Udemy (2021)
 
 ---
 
-*Open to Security Engineer roles at trading firms, fintechs, and financial institutions.*
+*Open to Security Engineer or related roles at trading firms, fintechs, and financial institutions.*
